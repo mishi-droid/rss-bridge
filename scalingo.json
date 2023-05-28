@@ -1,6 +1,14 @@
 {
-	"name": "RSS Bridge",
-	"description": "rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one.",
-	"repository": "https://github.com/mishi-droid/rss-bridge",
-	"website": "https://github.com/mishi-droid/rss-bridge"
-}
+	
+diff --git a/app.json b/app.json                                                                          
+index f184799..216a4b7 100644                                                                             
+--- a/app.json                                                                                            
++++ b/app.json                                                                                            
+@@ -2,7 +2,7 @@                                                                                           
+   "service": "Heroku",                                                                                   
+   "name": "RSS-Bridge",                                                                                  
+   "description": "RSS-Bridge is a PHP project capable of generating RSS and Atom feeds for websites which don't have one.",
+-  "repository": "https://github.com/RSS-Bridge/rss-bridge",                                              
++  "repository": "https://github.com/mishi-droid/rss-bridge",                                                  
+   "keywords": ["php", "rss-bridge", "rss"]                                                               
+ } 

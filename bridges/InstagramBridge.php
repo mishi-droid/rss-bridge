@@ -10,8 +10,8 @@ class InstagramBridge extends BridgeAbstract
     const CONFIGURATION = [
         'session_id' => [
             's' => [
-                'sessionid' => '58781741589%3AnXTWg2s6JQb6RD%3A8%3AAYeVEaM2dmHjxC_kVNsBY4mJrWw7I3uMg2L_Q59RNw'
-                'required' => true,
+                'sessionid' => '58781741589%3AnXTWg2s6JQb6RD%3A8%3AAYeVEaM2dmHjxC_kVNsBY4mJrWw7I3uMg2L_Q59RNw',
+                'required' => true
             ]
         ],
         'cache_timeout' => [

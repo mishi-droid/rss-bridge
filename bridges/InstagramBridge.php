@@ -21,7 +21,9 @@ class InstagramBridge extends BridgeAbstract
             'd' => [
                 'dsuserid' => '58781741589',
                 'required' => true
-        ],
+            ]
+        ]
+        
     ];
 
     const PARAMETERS = [
